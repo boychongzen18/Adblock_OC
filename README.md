@@ -3,7 +3,7 @@
 # Created Boychongzen aka Xroot
 
 #  oc
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/Screenshot_1.png)
+![be]((https://raw.githubusercontent.com/boychongzen18/adblock/refs/heads/main/oc.jpg))
 #  Addblock
 
 
