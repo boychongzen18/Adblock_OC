@@ -1,4 +1,4 @@
-# Addblock Openclash
+# Adblock Openclash
 
 # Created Boychongzen aka Xroot
 
