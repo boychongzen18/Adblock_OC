@@ -1,0 +1,29 @@
+proxies:
+- name: Trojan1
+  type: trojan
+  server: domain/ip
+  port: 443
+  password: password
+  udp: true
+  sni: domain
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /path
+    headers:
+      Host: domain
+#=================================================
+- name: Trojan2
+  type: trojan
+  server: domain/ip
+  port: 443
+  password: password
+  udp: true
+  sni: domain
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /path
+    headers:
+      Host: domain
+#=================================================
